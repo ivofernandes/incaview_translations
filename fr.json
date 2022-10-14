@@ -119,5 +119,14 @@
     "About": "À propos de",
     "About Description": "Inca View a pour mission d'aider les entrepreneurs à affiner et concrétiser leurs idées",
     "About details": "Cette application a été codée une fois dans Flutter pour fonctionner sur Android, Iphone et Web. Si vous voulez, donnez-moi des commentaires pour améliorer l'application ou si vous voulez une application de qualité supérieure pour votre entreprise, n'hésitez pas à me contacter sur linkedin",
-    "About slogan": "Je peux transformer votre idée en application"
+    "About slogan": "Je peux transformer votre idée en application",
+    "Business Ideas": "Idées d'affaires",
+    "Untitled Canvas": "Toile sans titre",
+    "Business": "Entreprise",
+    "Lean": "Maigre",
+    "Build": "Construire",
+    "Idea Implementation": "Mise en œuvre de l'idée",
+    "Please fill the website": "Merci de remplir le site",
+    "Website": "Site Internet",
+    "Page speed": "Vitesse des pages"
 }
