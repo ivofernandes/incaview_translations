@@ -128,5 +128,18 @@
     "Idea Implementation": "理念实施",
     "Please fill the website": "请填写网站",
     "Website": "网站",
-    "Page speed": "页面速度"
+    "Page speed": "页面速度",
+    "Idea Name": "创意名称",
+    "Please enter some text": "请输入一些文字",
+    "Export as text": "导出为文本",
+    "Export as image": "导出为图像",
+    "Change Layout": "更改布局",
+    "Delete idea": "删除想法",
+    "Cancel": "取消",
+    "Are you sure that you want to delete": "您确定要删除吗",
+    "Export": "出口",
+    "Brand color": "品牌颜色",
+    "Text header color": "文本标题颜色",
+    "Text color": "文字颜色",
+    "Background color": "背景颜色"
 }

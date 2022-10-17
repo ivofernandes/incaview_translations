@@ -128,5 +128,18 @@
     "Idea Implementation": "Implementasi Ide",
     "Please fill the website": "Silahkan isi websitenya",
     "Website": "Situs web",
-    "Page speed": "Kecepatan halaman"
+    "Page speed": "Kecepatan halaman",
+    "Idea Name": "Nama Ide",
+    "Please enter some text": "Silakan masukkan beberapa teks",
+    "Export as text": "Ekspor sebagai teks",
+    "Export as image": "Ekspor sebagai gambar",
+    "Change Layout": "Ubah Tata Letak",
+    "Delete idea": "Hapus ide",
+    "Cancel": "Membatalkan",
+    "Are you sure that you want to delete": "Apakah Anda yakin ingin menghapus",
+    "Export": "Ekspor",
+    "Brand color": "Warna merek",
+    "Text header color": "Warna tajuk teks",
+    "Text color": "Warna teks",
+    "Background color": "Warna latar belakang"
 }

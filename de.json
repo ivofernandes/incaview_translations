@@ -128,5 +128,18 @@
     "Idea Implementation": "Ideenumsetzung",
     "Please fill the website": "Bitte füllen Sie die Website aus",
     "Website": "Webseite",
-    "Page speed": "Seitengeschwindigkeit"
+    "Page speed": "Seitengeschwindigkeit",
+    "Idea Name": "Ideenname",
+    "Please enter some text": "Bitte geben Sie einen Text ein",
+    "Export as text": "Als Text exportieren",
+    "Export as image": "Als Bild exportieren",
+    "Change Layout": "Layout ändern",
+    "Delete idea": "Idee löschen",
+    "Cancel": "Absagen",
+    "Are you sure that you want to delete": "Sind Sie sicher, dass Sie löschen möchten?",
+    "Export": "Export",
+    "Brand color": "Markenfarbe",
+    "Text header color": "Farbe der Textüberschrift",
+    "Text color": "Textfarbe",
+    "Background color": "Hintergrundfarbe"
 }
