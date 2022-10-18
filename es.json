@@ -141,5 +141,7 @@
     "Brand color": "color de la marca",
     "Text header color": "Color del encabezado del texto",
     "Text color": "Color de texto",
-    "Background color": "Color de fondo"
+    "Background color": "Color de fondo",
+    "Github contribute": "Puedes mejorar las traducciones en el siguiente proyecto de github",
+    "Select language": "Seleccione el idioma"
 }

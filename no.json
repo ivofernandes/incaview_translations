@@ -141,5 +141,7 @@
     "Brand color": "Merkefarge",
     "Text header color": "Farge på tekstoverskrift",
     "Text color": "Tekstfarge",
-    "Background color": "Bakgrunnsfarge"
+    "Background color": "Bakgrunnsfarge",
+    "Github contribute": "Du kan forbedre oversettelsene i følgende github-prosjekt",
+    "Select language": "Velg språk"
 }
