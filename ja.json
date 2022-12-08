@@ -117,7 +117,6 @@
     "Customer Jobs google": "生活に付加価値を与えるために顧客が実行する必要があるタスクは何ですか?\n      \nGoogle の例: 顧客は、別のユーザーがインターネットに追加したものを見つける必要があります。",
     "Partnerships": "パートナーシップ",
     "About": "約",
-    "About Description": "Inca View の使命は、起業家がアイデアを洗練し、具体化するのを支援することです。",
     "About details": "このアプリは、Android、Iphone、および Web で動作するように Flutter でコード化されていました。アプリを改善するためのフィードバックが必要な場合、またはビジネスに最高品質のアプリが必要な場合は、LinkedIn でお気軽にお問い合わせください",
     "About slogan": "あなたのアイデアをアプリに変えることができます",
     "Business Ideas": "ビジネスアイデア",
@@ -143,5 +142,6 @@
     "Text color": "テキストの色",
     "Background color": "背景色",
     "Github contribute": "次の github プロジェクトで翻訳を改善できます",
-    "Select language": "言語を選択する"
+    "Select language": "言語を選択する",
+    "About Description": "このアプリの目的は、起業家が人々に愛される素晴らしい製品を作成できるようにすることです。\n\nそのために、ビジネス モデル キャンバスを使用して、ビジネス アイデアを絞り込むことができます。\nまた、Lean Canvas と新しい App Canvas をサポートして、ビジネス モバイル アプリの立ち上げを計画します。\n\n\nモデルは電話に保存でき、ギャラリーの画像に無料でエクスポートできます"
 }

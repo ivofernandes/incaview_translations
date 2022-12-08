@@ -9,7 +9,7 @@
     "Value Proposition": "Propuesta de valor",
     "Value Proposition google": "¿Cuál es el valor que el cliente obtendrá de su negocio?\n\n¿Cuáles son los problemas que su negocio está resolviendo? ¿Cuáles son las necesidades del cliente que estás resolviendo?\n\nEjemplo de Google: los usuarios encontrarán lo que necesitan más rápido. Y los clientes publicitarios podrán llegar a los usuarios cuando busquen temas relacionados con su negocio.",
     "Customer Relations": "Relaciones con los clientes",
-    "Customer Relations google": "¿Cómo interactuará con su cliente?\n\nEjemplo de Google: al usar el sitio web, recopilar métricas de los usuarios de búsqueda, solo los productos publicitarios tienen atención al cliente",
+    "Customer Relations google": "¿Cómo interactuará con su cliente?\nEjemplo de Google: al usar el sitio web, recopilar métricas de los usuarios de búsqueda, solo los productos publicitarios tienen atención al cliente",
     "Channels": "Canales",
     "Channels google": "¿Cómo llegará su negocio a sus clientes y socios? ¿Cómo entregará sus productos?\n\nEjemplo de Google: Navegador y acceso a la url",
     "Customer Segments": "Segmentos de clientes",
@@ -117,7 +117,6 @@
     "Customer Jobs google": "¿Cuáles son las tareas que el cliente necesita realizar para agregar valor en sus vidas?\n      \nEjemplo de Google: el cliente necesita encontrar algo que otro usuario haya agregado a Internet",
     "Partnerships": "Asociaciones",
     "About": "Sobre",
-    "About Description": "Inca View tiene la misión de ayudar a los emprendedores a refinar y materializar sus ideas",
     "About details": "Esta aplicación fue codificada una vez en Flutter para funcionar en Android, Iphone y Web. Si quieres darme tu opinión para mejorar la aplicación o si quieres una aplicación de alta calidad para tu negocio, no dudes en contactarme en Linkedin.",
     "About slogan": "Puedo convertir tu idea en una aplicación",
     "Business Ideas": "Ideas de negocio",
@@ -143,5 +142,6 @@
     "Text color": "Color de texto",
     "Background color": "Color de fondo",
     "Github contribute": "Puedes mejorar las traducciones en el siguiente proyecto de github",
-    "Select language": "Seleccione el idioma"
+    "Select language": "Seleccione el idioma",
+    "About Description": "El objetivo de esta aplicación es ayudar a los emprendedores a crear productos asombrosos que la gente ame.\n\nPara eso, puede usar un Business Model Canvas para refinar su idea de negocio.\nTambién admitimos Lean Canvas y un nuevo App Canvas para planificar el lanzamiento de su aplicación móvil empresarial.\n\n\nLos modelos pueden conservarse en el teléfono y exportarse a la imagen en la galería de forma gratuita"
 }

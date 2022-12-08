@@ -117,7 +117,6 @@
     "Customer Jobs google": "Jaké úkoly musí zákazník splnit, aby ve svém životě přidal hodnotu?\n      \nPříklad Google: Zákazník potřebuje najít něco, co na internet přidal jiný uživatel",
     "Partnerships": "Partnerské vztahy",
     "About": "O",
-    "About Description": "Posláním Inca View je pomáhat podnikatelům vylepšovat a zhmotňovat jejich nápady",
     "About details": "Tato aplikace byla jednou kódem ve Flutteru, aby fungovala na Androidu, iPhonu a webu. Pokud chcete, dejte mi zpětnou vazbu na vylepšení aplikace nebo pokud chcete špičkovou aplikaci pro vaši firmu, neváhejte mě kontaktovat na linkedin",
     "About slogan": "Mohu váš nápad převést do aplikace",
     "Business Ideas": "Podnikatelské nápady",
@@ -143,5 +142,6 @@
     "Text color": "Barva textu",
     "Background color": "Barva pozadí",
     "Github contribute": "Překlady můžete vylepšit v následujícím projektu github",
-    "Select language": "Zvolte jazyk"
+    "Select language": "Zvolte jazyk",
+    "About Description": "Cílem této aplikace je pomoci podnikatelům vytvářet úžasné produkty, které lidé milují.\n\nK tomu můžete použít Business Model Canvas k upřesnění svého podnikatelského nápadu.\nPodporujeme také Lean Canvas a zbrusu nový App Canvas pro plánování spuštění vaší firemní mobilní aplikace.\n\n\nModely mohou být uloženy v telefonu a exportovány do obrázku v galerii zdarma"
 }

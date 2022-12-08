@@ -117,7 +117,6 @@
     "Customer Jobs google": "Mitä tehtäviä asiakkaan on suoritettava voidakseen tuoda lisäarvoa elämäänsä?\n      \nGoogle-esimerkki: Asiakkaan on löydettävä jotain, jonka toinen käyttäjä on lisännyt Internetiin",
     "Partnerships": "Kumppanuudet",
     "About": "Noin",
-    "About Description": "Inca View'n tehtävänä on auttaa yrittäjiä jalostamaan ja toteuttamaan ideoitaan",
     "About details": "Tämä sovellus koodittiin kerran Flutterissa toimimaan Androidissa, iPhonessa ja Webissä. Jos haluat antaa minulle palautetta sovelluksen parantamiseksi tai jos haluat huippulaadukkaan sovelluksen yrityksellesi, ota rohkeasti yhteyttä linkedinissä",
     "About slogan": "Voin muuttaa ideasi sovellukseksi",
     "Business Ideas": "Liikeideoita",
@@ -143,5 +142,6 @@
     "Text color": "Tekstin väri",
     "Background color": "Taustaväri",
     "Github contribute": "Voit parantaa käännöksiä seuraavassa github-projektissa",
-    "Select language": "Valitse kieli"
+    "Select language": "Valitse kieli",
+    "About Description": "Tämän sovelluksen tavoitteena on auttaa yrittäjiä luomaan uskomattomia tuotteita, joista ihmiset pitävät.\n\nTätä varten voit käyttää Business Model Canvaasia liikeideaasi hiomiseen.\nTuemme myös Lean Canvaa ja upouutta App Canvasia yrityksesi mobiilisovelluksen julkaisun suunnittelussa.\n\n\nMallit voidaan säilyttää puhelimessa ja viedä ilmaiseksi galleriaan"
 }

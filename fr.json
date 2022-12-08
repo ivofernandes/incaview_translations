@@ -117,7 +117,6 @@
     "Customer Jobs google": "Quelles sont les tâches que le client doit accomplir pour ajouter de la valeur dans sa vie ?\n      \nExemple Google : le client doit trouver quelque chose qu'un autre utilisateur a ajouté sur Internet",
     "Partnerships": "Partenariats",
     "About": "À propos de",
-    "About Description": "Inca View a pour mission d'aider les entrepreneurs à affiner et concrétiser leurs idées",
     "About details": "Cette application a été codée une fois dans Flutter pour fonctionner sur Android, Iphone et Web. Si vous voulez, donnez-moi des commentaires pour améliorer l'application ou si vous voulez une application de qualité supérieure pour votre entreprise, n'hésitez pas à me contacter sur linkedin",
     "About slogan": "Je peux transformer votre idée en application",
     "Business Ideas": "Idées d'affaires",
@@ -143,5 +142,6 @@
     "Text color": "Couleur du texte",
     "Background color": "Couleur de l'arrière plan",
     "Github contribute": "Vous pouvez améliorer les traductions dans le projet github suivant",
-    "Select language": "Choisir la langue"
+    "Select language": "Choisir la langue",
+    "About Description": "L'objectif de cette application est d'aider les entrepreneurs à créer des produits étonnants que les gens adorent.\n\nPour cela, vous pouvez utiliser un Business Model Canvas pour affiner votre idée d'entreprise.\nNous prenons également en charge Lean Canvas et un tout nouveau App Canvas pour planifier le lancement de votre application mobile professionnelle.\n\n\nLes modèles peuvent être conservés dans le téléphone et exportables gratuitement en image dans la galerie"
 }

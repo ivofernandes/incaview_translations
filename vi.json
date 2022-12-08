@@ -117,7 +117,6 @@
     "Customer Jobs google": "Những công việc mà khách hàng cần thực hiện để gia tăng giá trị trong cuộc sống của họ là gì?\n      \nVí dụ về Google: Khách hàng cần tìm thứ gì đó mà người dùng khác đã thêm vào internet",
     "Partnerships": "Quan hệ đối tác",
     "About": "Về",
-    "About Description": "Inca View có sứ mệnh giúp các doanh nhân sàng lọc và hiện thực hóa ý tưởng của họ",
     "About details": "Ứng dụng này đã từng là mã trong Flutter để hoạt động trên Android, Iphone và Web. Nếu muốn, hãy cho tôi phản hồi để cải thiện ứng dụng hoặc nếu bạn muốn một ứng dụng chất lượng hàng đầu cho doanh nghiệp của mình, vui lòng liên hệ với tôi trên linkedin",
     "About slogan": "Tôi có thể biến ý tưởng của bạn thành một ứng dụng",
     "Business Ideas": "Ý tưởng doanh nghiệp",
@@ -143,5 +142,6 @@
     "Text color": "Văn bản màu",
     "Background color": "Màu nền",
     "Github contribute": "Bạn có thể cải thiện bản dịch trong dự án github sau",
-    "Select language": "Chọn ngôn ngữ"
+    "Select language": "Chọn ngôn ngữ",
+    "About Description": "Mục tiêu của ứng dụng này là giúp các doanh nhân tạo ra những sản phẩm tuyệt vời mà mọi người yêu thích.\n\nĐể làm được điều đó, bạn có thể sử dụng Khung mô hình kinh doanh để tinh chỉnh ý tưởng kinh doanh của mình.\nChúng tôi cũng hỗ trợ Canvas tinh gọn và Canvas ứng dụng hoàn toàn mới để lập kế hoạch ra mắt ứng dụng dành cho thiết bị di động dành cho doanh nghiệp của bạn.\n\n\nCác mô hình có thể được duy trì trong điện thoại và có thể xuất thành hình ảnh trong thư viện miễn phí"
 }

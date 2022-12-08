@@ -117,7 +117,6 @@
     "Customer Jobs google": "Ano ang mga gawain na kailangang gampanan ng customer upang magdagdag ng halaga sa kanilang buhay?\n      \nHalimbawa ng Google: Kailangang maghanap ng customer ng isang bagay na idinagdag ng isa pang user sa internet",
     "Partnerships": "Mga pakikipagsosyo",
     "About": "Tungkol sa",
-    "About Description": "Ang Inca View ay may misyon na tulungan ang mga negosyante na pinuhin at maisakatuparan ang kanilang mga ideya",
     "About details": "Ang app na ito ay dating code sa Flutter upang gumana sa Android, Iphone at Web. Kung gusto mo, bigyan mo ako ng feedback para pagbutihin ang app o kung gusto mo ng mataas na kalidad na app para sa iyong negosyo huwag mag-atubiling makipag-ugnayan sa akin sa linkedin",
     "About slogan": "Maaari kong gawing app ang iyong ideya",
     "Business Ideas": "Mga Ideya sa Negosyo",
@@ -143,5 +142,6 @@
     "Text color": "Kulay ng teksto",
     "Background color": "Kulay ng background",
     "Github contribute": "Maaari mong pagbutihin ang mga pagsasalin sa sumusunod na proyekto ng github",
-    "Select language": "Pumili ng wika"
+    "Select language": "Pumili ng wika",
+    "About Description": "Ang layunin ng app na ito ay tulungan ang mga negosyante na lumikha ng mga kamangha-manghang produkto na gusto ng mga tao.\n\nPara diyan maaari kang gumamit ng Business Model Canvas para pinuhin ang iyong ideya sa negosyo.\nSinusuportahan din namin ang Lean Canvas at isang bagong-bagong App Canvas para planuhin ang paglulunsad ng mobile app ng iyong negosyo.\n\n\nAng mga modelo ay maaaring ituloy sa telepono at mai-export sa larawan sa gallery nang libre"
 }

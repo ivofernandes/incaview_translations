@@ -117,7 +117,6 @@
     "Customer Jobs google": "Müşterilerin hayatlarına değer katmak için gerçekleştirmesi gereken görevler nelerdir?\n      \nGoogle örneği: Müşterinin, başka bir kullanıcının internete eklediği bir şeyi bulması gerekiyor",
     "Partnerships": "Ortaklıklar",
     "About": "Hakkında",
-    "About Description": "Inca View, girişimcilerin fikirlerini iyileştirmelerine ve gerçekleştirmelerine yardımcı olma misyonuna sahiptir.",
     "About details": "Bu uygulama bir zamanlar Flutter'da Android, Iphone ve Web'de çalışmak için koddu. Uygulamayı geliştirmek için bana geri bildirimde bulunmak veya işletmeniz için en kaliteli bir uygulama istiyorsanız, Linkedin'de benimle iletişime geçmekten çekinmeyin.",
     "About slogan": "Fikrinizi bir uygulamaya dönüştürebilirim",
     "Business Ideas": "İş fikirleri",
@@ -143,5 +142,6 @@
     "Text color": "Metin rengi",
     "Background color": "Arka plan rengi",
     "Github contribute": "Aşağıdaki github projesinde çevirileri iyileştirebilirsiniz",
-    "Select language": "Dil Seçin"
+    "Select language": "Dil Seçin",
+    "About Description": "Bu uygulamanın amacı, girişimcilerin insanların sevdiği harika ürünler yaratmasına yardımcı olmaktır.\n\nBunun için, iş fikrinizi geliştirmek için bir İş Modeli Kanvası kullanabilirsiniz.\nİş mobil uygulamanızın lansmanını planlamak için Lean Canvas'ı ve yepyeni bir App Canvas'ı da destekliyoruz.\n\n\nModeller telefonda kalıcı olabilir ve ücretsiz olarak galeride resim olarak dışa aktarılabilir."
 }

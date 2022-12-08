@@ -117,7 +117,6 @@
     "Customer Jobs google": "Apakah tugas yang perlu dilakukan oleh pelanggan untuk menambah nilai dalam kehidupan mereka?\n      \nContoh Google: Pelanggan perlu mencari sesuatu yang telah ditambahkan oleh pengguna lain pada internet",
     "Partnerships": "Perkongsian",
     "About": "Tentang",
-    "About Description": "Inca View mempunyai misi untuk membantu usahawan memperhalusi dan merealisasikan idea mereka",
     "About details": "Apl ini adalah kod sekali dalam Flutter untuk berfungsi pada Android, Iphone dan Web. Jika mahu pergi berikan saya maklum balas untuk menambah baik apl atau jika anda mahukan apl berkualiti tinggi untuk perniagaan anda, sila hubungi saya di linkedin",
     "About slogan": "Saya boleh menukar idea anda menjadi aplikasi",
     "Business Ideas": "Idea Perniagaan",
@@ -143,5 +142,6 @@
     "Text color": "Warna teks",
     "Background color": "Warna latar belakang",
     "Github contribute": "Anda boleh menambah baik terjemahan dalam projek github berikut",
-    "Select language": "Pilih Bahasa"
+    "Select language": "Pilih Bahasa",
+    "About Description": "Objektif aplikasi ini adalah untuk membantu usahawan mencipta produk hebat yang disukai orang ramai.\n\nUntuk itu anda boleh menggunakan Kanvas Model Perniagaan untuk memperhalusi idea perniagaan anda.\nKami juga menyokong Lean Canvas dan App Canvas serba baharu untuk merancang pelancaran apl mudah alih perniagaan anda.\n\n\nModel boleh disimpan dalam telefon dan boleh dieksport ke imej dalam galeri secara percuma"
 }

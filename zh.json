@@ -117,7 +117,6 @@
     "Customer Jobs google": "客户需要执行哪些任务才能为他们的生活增加价值？\n      \nGoogle 示例：客户需要查找其他用户添加到互联网的内容",
     "Partnerships": "伙伴关系",
     "About": "关于",
-    "About Description": "Inca View 的使命是帮助企业家完善和实现他们的想法",
     "About details": "这个应用程序曾在 Flutter 中编写过代码，可在 Android、Iphone 和 Web 上运行。如果想给我反馈以改进应用程序，或者如果您想要为您的企业提供高质量的应用程序，请随时在linkedin上与我联系",
     "About slogan": "我可以把你的想法变成一个应用程序",
     "Business Ideas": "经营理念",
@@ -143,5 +142,6 @@
     "Text color": "文字颜色",
     "Background color": "背景颜色",
     "Github contribute": "您可以在以下 github 项目中改进翻译",
-    "Select language": "选择语言"
+    "Select language": "选择语言",
+    "About Description": "这个应用程序的目标是帮助企业家创造人们喜爱的惊人产品。\n\n为此，您可以使用商业模型画布来完善您的商业理念。\n我们还支持 Lean Canvas 和全新的 App Canvas 来计划您的业务移动应用程序的启动。\n\n\n模型可以保存在手机中并免费导出到图库中的图像"
 }

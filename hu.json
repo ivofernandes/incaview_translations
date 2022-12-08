@@ -117,7 +117,6 @@
     "Customer Jobs google": "Melyek azok a feladatok, amelyeket az ügyfélnek el kell végeznie ahhoz, hogy értéket teremtsen az életében?\n      \nGoogle példa: Az ügyfélnek meg kell találnia valamit, amit egy másik felhasználó hozzáadott az internethez",
     "Partnerships": "Partnerségek",
     "About": "Ról ről",
-    "About Description": "Az Inca View küldetése, hogy segítse a vállalkozókat ötleteik finomításában és megvalósításában",
     "About details": "Ez az alkalmazás egyszer a Flutterben kódolt volt, hogy működjön Androidon, iPhone-on és weben. Ha szeretne visszajelzést adni az alkalmazás fejlesztéséhez, vagy ha kiváló minőségű alkalmazást szeretne vállalkozása számára, forduljon hozzám bizalommal a linkedin oldalon",
     "About slogan": "Az ötletedet egy alkalmazássá tudom alakítani",
     "Business Ideas": "Üzleti ötletek",
@@ -143,5 +142,6 @@
     "Text color": "Szöveg szín",
     "Background color": "Háttérszín",
     "Github contribute": "A következő github projektben javíthatja a fordításokat",
-    "Select language": "Válasszon nyelvet"
+    "Select language": "Válasszon nyelvet",
+    "About Description": "Ennek az alkalmazásnak az a célja, hogy segítse a vállalkozókat olyan csodálatos termékek létrehozásában, amelyeket az emberek szeretnek.\n\nEhhez használhat egy Business Model Canvas-t az üzleti ötlet finomításához.\nTámogatjuk a Lean Canvast és egy vadonatúj App Canvast is az üzleti mobilalkalmazás elindításának megtervezéséhez.\n\n\nA modellek a telefonban tárolhatók és ingyenesen exportálhatók képbe a galériába"
 }
