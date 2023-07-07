@@ -143,5 +143,22 @@
     "Background color": "Bakgrundsfärg",
     "Github contribute": "Du kan förbättra översättningarna i följande github-projekt",
     "Select language": "Välj språk",
-    "About Description": "Syftet med den här appen är att hjälpa entreprenörer att skapa fantastiska produkter som människor älskar.\n\nFör det kan du använda en Business Model Canvas för att förfina din affärsidé.\nVi stöder även Lean Canvas och en helt ny App Canvas för att planera lanseringen av din företagsmobilapp.\n\n\nModellerna kan finnas kvar i telefonen och exporteras till bild i galleriet gratis"
+    "About Description": "Syftet med den här appen är att hjälpa entreprenörer att skapa fantastiska produkter som människor älskar.\n\nFör det kan du använda en Business Model Canvas för att förfina din affärsidé.\nVi stöder även Lean Canvas och en helt ny App Canvas för att planera lanseringen av din företagsmobilapp.\n\n\nModellerna kan finnas kvar i telefonen och exporteras till bild i galleriet gratis",
+    "Add new idea": "Lägg till ny idé",
+    "Add empty idea": "Lägg till en tom idé",
+    "AI generated idea": "AI-genererad idé",
+    "Template for a company idea": "Mall för en företagsidé",
+    "Search company": "Sök företag",
+    "Build product": "Bygg produkt",
+    "Canvas": "Duk",
+    "More Canvas": "Mer Canvas",
+    "Blackboard": "Svarta tavlan",
+    "Icons animations": "Ikoner animationer",
+    "Learn": "Lära sig",
+    "Draw": "Dra",
+    "Top tags": "Topptaggar",
+    "Variation Δyoy": "Variation Δyoy",
+    "Top Genres": "Toppgenrer",
+    "Top Paradigms": "Toppparadigm",
+    "Loading trends data to database...": "Läser in trenddata till databasen..."
 }

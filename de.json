@@ -143,5 +143,22 @@
     "Background color": "Hintergrundfarbe",
     "Github contribute": "Sie können die Übersetzungen im folgenden Github-Projekt verbessern",
     "Select language": "Sprache auswählen",
-    "About Description": "Das Ziel dieser App ist es, Unternehmern dabei zu helfen, erstaunliche Produkte zu entwickeln, die die Menschen lieben.\n\nDazu können Sie ein Business Model Canvas verwenden, um Ihre Geschäftsidee zu verfeinern.\nWir unterstützen auch Lean Canvas und ein brandneues App Canvas, um die Einführung Ihrer mobilen Business-App zu planen.\n\n\nDie Modelle können im Telefon gespeichert und kostenlos als Bild in der Galerie exportiert werden"
+    "About Description": "Das Ziel dieser App ist es, Unternehmern dabei zu helfen, erstaunliche Produkte zu entwickeln, die die Menschen lieben.\n\nDazu können Sie ein Business Model Canvas verwenden, um Ihre Geschäftsidee zu verfeinern.\nWir unterstützen auch Lean Canvas und ein brandneues App Canvas, um die Einführung Ihrer mobilen Business-App zu planen.\n\n\nDie Modelle können im Telefon gespeichert und kostenlos als Bild in der Galerie exportiert werden",
+    "Add new idea": "Neue Idee hinzufügen",
+    "Add empty idea": "Leere Idee hinzufügen",
+    "AI generated idea": "KI-generierte Idee",
+    "Template for a company idea": "Vorlage für eine Firmenidee",
+    "Search company": "Firma suchen",
+    "Build product": "Produkt erstellen",
+    "Canvas": "Leinwand",
+    "More Canvas": "Mehr Leinwand",
+    "Blackboard": "Tafel",
+    "Icons animations": "Symbolanimationen",
+    "Learn": "Lernen",
+    "Draw": "Ziehen",
+    "Top tags": "Top-Tags",
+    "Variation Δyoy": "Variation Δyoy",
+    "Top Genres": "Top-Genres",
+    "Top Paradigms": "Top-Paradigmen",
+    "Loading trends data to database...": "Trenddaten werden in die Datenbank geladen..."
 }

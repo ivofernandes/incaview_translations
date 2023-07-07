@@ -143,5 +143,22 @@
     "Background color": "Arka plan rengi",
     "Github contribute": "Aşağıdaki github projesinde çevirileri iyileştirebilirsiniz",
     "Select language": "Dil Seçin",
-    "About Description": "Bu uygulamanın amacı, girişimcilerin insanların sevdiği harika ürünler yaratmasına yardımcı olmaktır.\n\nBunun için, iş fikrinizi geliştirmek için bir İş Modeli Kanvası kullanabilirsiniz.\nİş mobil uygulamanızın lansmanını planlamak için Lean Canvas'ı ve yepyeni bir App Canvas'ı da destekliyoruz.\n\n\nModeller telefonda kalıcı olabilir ve ücretsiz olarak galeride resim olarak dışa aktarılabilir."
+    "About Description": "Bu uygulamanın amacı, girişimcilerin insanların sevdiği harika ürünler yaratmasına yardımcı olmaktır.\n\nBunun için, iş fikrinizi geliştirmek için bir İş Modeli Kanvası kullanabilirsiniz.\nİş mobil uygulamanızın lansmanını planlamak için Lean Canvas'ı ve yepyeni bir App Canvas'ı da destekliyoruz.\n\n\nModeller telefonda kalıcı olabilir ve ücretsiz olarak galeride resim olarak dışa aktarılabilir.",
+    "Add new idea": "yeni fikir ekle",
+    "Add empty idea": "Boş fikir ekle",
+    "AI generated idea": "AI tarafından oluşturulan fikir",
+    "Template for a company idea": "Bir şirket fikri için şablon",
+    "Search company": "şirket ara",
+    "Build product": "Ürün oluştur",
+    "Canvas": "Tuval",
+    "More Canvas": "Daha Fazla Kanvas",
+    "Blackboard": "yazı tahtası",
+    "Icons animations": "Simge animasyonları",
+    "Learn": "Öğrenmek",
+    "Draw": "Çizmek",
+    "Top tags": "En iyi etiketler",
+    "Variation Δyoy": "Varyasyon Δyoy",
+    "Top Genres": "En Popüler Türler",
+    "Top Paradigms": "En İyi Paradigmalar",
+    "Loading trends data to database...": "Trend verileri veritabanına yükleniyor..."
 }

@@ -143,5 +143,22 @@
     "Background color": "背景色",
     "Github contribute": "次の github プロジェクトで翻訳を改善できます",
     "Select language": "言語を選択する",
-    "About Description": "このアプリの目的は、起業家が人々に愛される素晴らしい製品を作成できるようにすることです。\n\nそのために、ビジネス モデル キャンバスを使用して、ビジネス アイデアを絞り込むことができます。\nまた、Lean Canvas と新しい App Canvas をサポートして、ビジネス モバイル アプリの立ち上げを計画します。\n\n\nモデルは電話に保存でき、ギャラリーの画像に無料でエクスポートできます"
+    "About Description": "このアプリの目的は、起業家が人々に愛される素晴らしい製品を作成できるようにすることです。\n\nそのために、ビジネス モデル キャンバスを使用して、ビジネス アイデアを絞り込むことができます。\nまた、Lean Canvas と新しい App Canvas をサポートして、ビジネス モバイル アプリの立ち上げを計画します。\n\n\nモデルは電話に保存でき、ギャラリーの画像に無料でエクスポートできます",
+    "Add new idea": "新しいアイデアを追加する",
+    "Add empty idea": "空のアイデアを追加する",
+    "AI generated idea": "AIが生み出したアイデア",
+    "Template for a company idea": "会社のアイデアのテンプレート",
+    "Search company": "会社を探す",
+    "Build product": "製品を構築する",
+    "Canvas": "キャンバス",
+    "More Canvas": "キャンバスをもっと見る",
+    "Blackboard": "黒板",
+    "Icons animations": "アイコンアニメーション",
+    "Learn": "学び",
+    "Draw": "描く",
+    "Top tags": "人気のタグ",
+    "Variation Δyoy": "変動量Δ前年比",
+    "Top Genres": "トップジャンル",
+    "Top Paradigms": "トップパラダイム",
+    "Loading trends data to database...": "傾向データをデータベースにロードしています..."
 }

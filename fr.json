@@ -143,5 +143,22 @@
     "Background color": "Couleur de l'arrière plan",
     "Github contribute": "Vous pouvez améliorer les traductions dans le projet github suivant",
     "Select language": "Choisir la langue",
-    "About Description": "L'objectif de cette application est d'aider les entrepreneurs à créer des produits étonnants que les gens adorent.\n\nPour cela, vous pouvez utiliser un Business Model Canvas pour affiner votre idée d'entreprise.\nNous prenons également en charge Lean Canvas et un tout nouveau App Canvas pour planifier le lancement de votre application mobile professionnelle.\n\n\nLes modèles peuvent être conservés dans le téléphone et exportables gratuitement en image dans la galerie"
+    "About Description": "L'objectif de cette application est d'aider les entrepreneurs à créer des produits étonnants que les gens adorent.\n\nPour cela, vous pouvez utiliser un Business Model Canvas pour affiner votre idée d'entreprise.\nNous prenons également en charge Lean Canvas et un tout nouveau App Canvas pour planifier le lancement de votre application mobile professionnelle.\n\n\nLes modèles peuvent être conservés dans le téléphone et exportables gratuitement en image dans la galerie",
+    "Add new idea": "Ajouter une nouvelle idée",
+    "Add empty idea": "Ajouter une idée vide",
+    "AI generated idea": "Idée générée par l'IA",
+    "Template for a company idea": "Modèle d'idée d'entreprise",
+    "Search company": "Rechercher une entreprise",
+    "Build product": "Construire le produit",
+    "Canvas": "Toile",
+    "More Canvas": "Plus de toile",
+    "Blackboard": "Tableau noir",
+    "Icons animations": "Animations d'icônes",
+    "Learn": "Apprendre",
+    "Draw": "Dessiner",
+    "Top tags": "Principales balises",
+    "Variation Δyoy": "Variation Δyoy",
+    "Top Genres": "Meilleurs genres",
+    "Top Paradigms": "Principaux paradigmes",
+    "Loading trends data to database...": "Chargement des données de tendances dans la base de données..."
 }

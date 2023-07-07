@@ -143,5 +143,22 @@
     "Background color": "Culoare de fundal",
     "Github contribute": "Puteți îmbunătăți traducerile în următorul proiect github",
     "Select language": "Selecteaza limba",
-    "About Description": "Obiectivul acestei aplicații este de a ajuta antreprenorii să creeze produse uimitoare pe care oamenii le iubesc.\n\nPentru asta, puteți folosi o pânză de model de afaceri pentru a vă rafina ideea de afaceri.\nDe asemenea, susținem Lean Canvas și un nou App Canvas pentru a planifica lansarea aplicației mobile pentru afaceri.\n\n\nModelele pot fi păstrate în telefon și exportabile la imagine în galerie gratuit"
+    "About Description": "Obiectivul acestei aplicații este de a ajuta antreprenorii să creeze produse uimitoare pe care oamenii le iubesc.\n\nPentru asta, puteți folosi o pânză de model de afaceri pentru a vă rafina ideea de afaceri.\nDe asemenea, susținem Lean Canvas și un nou App Canvas pentru a planifica lansarea aplicației mobile pentru afaceri.\n\n\nModelele pot fi păstrate în telefon și exportabile la imagine în galerie gratuit",
+    "Add new idea": "Adăugați o idee nouă",
+    "Add empty idea": "Adăugați o idee goală",
+    "AI generated idea": "Ideea generată de AI",
+    "Template for a company idea": "Model pentru o idee de companie",
+    "Search company": "Cauta firma",
+    "Build product": "Construiți produsul",
+    "Canvas": "Pânză",
+    "More Canvas": "Mai mult Canvas",
+    "Blackboard": "Tabla de scris",
+    "Icons animations": "Animații cu icoane",
+    "Learn": "Învăța",
+    "Draw": "A desena",
+    "Top tags": "Top etichete",
+    "Variation Δyoy": "Variația Δyoy",
+    "Top Genres": "Genuri de top",
+    "Top Paradigms": "Paradigme de top",
+    "Loading trends data to database...": "Se încarcă datele despre tendințe în baza de date..."
 }

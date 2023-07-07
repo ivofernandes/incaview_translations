@@ -143,5 +143,22 @@
     "Background color": "背景颜色",
     "Github contribute": "您可以在以下 github 项目中改进翻译",
     "Select language": "选择语言",
-    "About Description": "这个应用程序的目标是帮助企业家创造人们喜爱的惊人产品。\n\n为此，您可以使用商业模型画布来完善您的商业理念。\n我们还支持 Lean Canvas 和全新的 App Canvas 来计划您的业务移动应用程序的启动。\n\n\n模型可以保存在手机中并免费导出到图库中的图像"
+    "About Description": "这个应用程序的目标是帮助企业家创造人们喜爱的惊人产品。\n\n为此，您可以使用商业模型画布来完善您的商业理念。\n我们还支持 Lean Canvas 和全新的 App Canvas 来计划您的业务移动应用程序的启动。\n\n\n模型可以保存在手机中并免费导出到图库中的图像",
+    "Add new idea": "添加新想法",
+    "Add empty idea": "添加空的想法",
+    "AI generated idea": "人工智能产生的想法",
+    "Template for a company idea": "公司理念的模板",
+    "Search company": "搜寻公司",
+    "Build product": "构建产品",
+    "Canvas": "帆布",
+    "More Canvas": "更多帆布",
+    "Blackboard": "黑板",
+    "Icons animations": "图标动画",
+    "Learn": "学习",
+    "Draw": "画",
+    "Top tags": "热门标签",
+    "Variation Δyoy": "同比变化Δ",
+    "Top Genres": "热门流派",
+    "Top Paradigms": "顶级范式",
+    "Loading trends data to database...": "正在将趋势数据加载到数据库..."
 }

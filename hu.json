@@ -143,5 +143,22 @@
     "Background color": "Háttérszín",
     "Github contribute": "A következő github projektben javíthatja a fordításokat",
     "Select language": "Válasszon nyelvet",
-    "About Description": "Ennek az alkalmazásnak az a célja, hogy segítse a vállalkozókat olyan csodálatos termékek létrehozásában, amelyeket az emberek szeretnek.\n\nEhhez használhat egy Business Model Canvas-t az üzleti ötlet finomításához.\nTámogatjuk a Lean Canvast és egy vadonatúj App Canvast is az üzleti mobilalkalmazás elindításának megtervezéséhez.\n\n\nA modellek a telefonban tárolhatók és ingyenesen exportálhatók képbe a galériába"
+    "About Description": "Ennek az alkalmazásnak az a célja, hogy segítse a vállalkozókat olyan csodálatos termékek létrehozásában, amelyeket az emberek szeretnek.\n\nEhhez használhat egy Business Model Canvas-t az üzleti ötlet finomításához.\nTámogatjuk a Lean Canvast és egy vadonatúj App Canvast is az üzleti mobilalkalmazás elindításának megtervezéséhez.\n\n\nA modellek a telefonban tárolhatók és ingyenesen exportálhatók képbe a galériába",
+    "Add new idea": "Új ötlet hozzáadása",
+    "Add empty idea": "Üres ötlet hozzáadása",
+    "AI generated idea": "AI által generált ötlet",
+    "Template for a company idea": "Sablon egy céges ötlethez",
+    "Search company": "Cég keresése",
+    "Build product": "Építsd meg a terméket",
+    "Canvas": "Vászon",
+    "More Canvas": "Még több vászon",
+    "Blackboard": "Tábla",
+    "Icons animations": "Ikonok animációk",
+    "Learn": "Tanul",
+    "Draw": "Húz",
+    "Top tags": "Legjobb címkék",
+    "Variation Δyoy": "Változat Δyoy",
+    "Top Genres": "Legjobb műfajok",
+    "Top Paradigms": "Legjobb paradigmák",
+    "Loading trends data to database...": "Trendadatok betöltése az adatbázisba..."
 }

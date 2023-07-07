@@ -143,5 +143,22 @@
     "Background color": "Taustaväri",
     "Github contribute": "Voit parantaa käännöksiä seuraavassa github-projektissa",
     "Select language": "Valitse kieli",
-    "About Description": "Tämän sovelluksen tavoitteena on auttaa yrittäjiä luomaan uskomattomia tuotteita, joista ihmiset pitävät.\n\nTätä varten voit käyttää Business Model Canvaasia liikeideaasi hiomiseen.\nTuemme myös Lean Canvaa ja upouutta App Canvasia yrityksesi mobiilisovelluksen julkaisun suunnittelussa.\n\n\nMallit voidaan säilyttää puhelimessa ja viedä ilmaiseksi galleriaan"
+    "About Description": "Tämän sovelluksen tavoitteena on auttaa yrittäjiä luomaan uskomattomia tuotteita, joista ihmiset pitävät.\n\nTätä varten voit käyttää Business Model Canvaasia liikeideaasi hiomiseen.\nTuemme myös Lean Canvaa ja upouutta App Canvasia yrityksesi mobiilisovelluksen julkaisun suunnittelussa.\n\n\nMallit voidaan säilyttää puhelimessa ja viedä ilmaiseksi galleriaan",
+    "Add new idea": "Lisää uusi idea",
+    "Add empty idea": "Lisää tyhjä idea",
+    "AI generated idea": "Tekoälyn luoma idea",
+    "Template for a company idea": "Malli yrityksen idealle",
+    "Search company": "Etsi yritys",
+    "Build product": "Rakenna tuote",
+    "Canvas": "Kangas",
+    "More Canvas": "Lisää kangasta",
+    "Blackboard": "Liitutaulu",
+    "Icons animations": "Animaatiot kuvakkeet",
+    "Learn": "Oppia",
+    "Draw": "Piirrä",
+    "Top tags": "Huipputunnisteet",
+    "Variation Δyoy": "Muunnelma Δyoy",
+    "Top Genres": "Suosituimmat genret",
+    "Top Paradigms": "Parhaat paradigmat",
+    "Loading trends data to database...": "Ladataan trenditietoja tietokantaan..."
 }
